@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='WebView'
+rootProject.name='DPbrowser'
